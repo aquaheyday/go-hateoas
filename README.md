@@ -12,13 +12,13 @@ A lightweight Go library for building HATEOAS-compliant JSON APIs.
 ## 🚀 Install
 
 ```bash
-go get github.com/yourname/go-hateoas
+go get github.com/aquaheyday/go-hateoas
 ```
 
 ## 📦 Basic Usage
 
 ```go
-import "github.com/yourname/go-hateoas"
+import "github.com/aquaheyday/go-hateoas"
 
 type Book struct {
 	ID    int
