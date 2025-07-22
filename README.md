@@ -60,6 +60,6 @@ jsonBytes, _ := json.Marshal(res)
 hateoas.RespondWithHATEOAS(c, http.StatusOK, user, links)
 ```
 
-## 📜 License
+## 🛡 License
 
-MIT
+This project is licensed under the [MIT License](LICENSE).
